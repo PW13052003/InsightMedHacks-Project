@@ -11,10 +11,11 @@ Devpost
 
 ## <u>Project Details</u>:-
 
-### Project Name:- 
+### <u>Project Name</u>:- 
 Breast Cancer Data Analysis
-### Project Description:-
 
-### Tool(s) used:-
+### <u>Project Description</u>:-
+
+### <u>Tools used</u>:-
 <u>Programming Language(s)</u>: Python
 <u>Libraries</u>: Pandas, Matplotlib, Seaborn 
