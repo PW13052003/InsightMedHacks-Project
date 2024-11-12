@@ -32,3 +32,9 @@ for column in numeric_data.columns:
     plt.show()
 
 correlation_matrix = numeric_data.corr()
+
+# Plot the correlation matrix using a heatmap
+plt.figure(figsize=(10, 8))
+sns.heatmap(correlation_matrix, annot=True, cmap="coolwarm", fmt=".2f", cbar=True)
+plt.title("Correlation Matrix of Numerical Columns")
+plt.show()
