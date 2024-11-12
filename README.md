@@ -15,7 +15,7 @@ Devpost
 Breast Cancer Data Analysis
 
 ### <u>Project Description</u>:-
-
+This project aims to analyze a comprehensive dataset on breast cancer, focusing on uncovering key insights that could support clinical decisions. By examining various factors such as tumor size, hormone receptor status, and cancer staging, this analysis seeks to identify patterns and correlations that contribute to patient outcomes. The goal is to provide actionable insights that highlight critical risk factors and potential areas for early intervention, ultimately helping to inform strategies for improved diagnosis and treatment.
 ### <u>Tools used</u>:-
 - <u>Programming Language(s)</u>: Python
 - <u>Libraries</u>: Pandas, Matplotlib, Seaborn 
