@@ -1,4 +1,5 @@
 import pandas as pd
+import matplotlib.pyplot as plt
 
 df = pd.read_csv("/Users/puranjaywadhera/Downloads/cancer.csv")
 
@@ -19,3 +20,12 @@ print("\033[4mSTANDARD DEVIATION\033[0m:-\n" + str(round(standard_deviation_valu
 print("-----")
 print("\033[4mRANGE\033[0m:-\n" + str(round(range_value, 2)))
 print("-----")
+
+# Plot histograms for each column
+for column in numeric_data.columns:
+    plt.figure(figsize=(8, 6))  # Create a new figure for each plot
+    plt.hist(numeric_data[column], bins=30, edgecolor='black')  # Adjust bins as needed
+    plt.title(f'Distribution of {column}')
+    plt.xlabel(column)
+    plt.ylabel('Frequency')
+    plt.show()
