@@ -17,5 +17,5 @@ Breast Cancer Data Analysis
 ### <u>Project Description</u>:-
 
 ### <u>Tools used</u>:-
-<u>Programming Language(s)</u>: Python
-<u>Libraries</u>: Pandas, Matplotlib, Seaborn 
+- <u>Programming Language(s)</u>: Python
+- <u>Libraries</u>: Pandas, Matplotlib, Seaborn 
