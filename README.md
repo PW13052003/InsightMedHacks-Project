@@ -1,19 +1,20 @@
-# Breast Cancer Data Analysis
+# <u>Breast Cancer Data Analysis</u>
 
-## Host(s):-
+## <u>Host(s)</u>:-
 Devpost
 
-## Owner:-
+## <u>Owner</u>:-
 - Name: Puranjay Wadhera
 - University: Drexel University (BS in Computer Science)
 - Email: pw425@drexel.edu
 - LinkedIn: https://www.linkedin.com/in/puranjay-wadhera-163309118/
 
-## Project Details:-
+## <u>Project Details</u>:-
 
-### Project Name: Breast Cancer Data Analysis
+### Project Name:- 
+Breast Cancer Data Analysis
 ### Project Description:-
-####
+
 ### Tool(s) used:-
-#### <u>Programming Language(s)</u>: Python
-#### <u>Libraries</u>: Pandas, Matplotlib, Seaborn 
+<u>Programming Language(s)</u>: Python
+<u>Libraries</u>: Pandas, Matplotlib, Seaborn 
