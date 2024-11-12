@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 df = pd.read_csv("/Users/puranjaywadhera/Downloads/cancer.csv")
 
@@ -29,3 +30,5 @@ for column in numeric_data.columns:
     plt.xlabel(column)
     plt.ylabel('Frequency')
     plt.show()
+
+correlation_matrix = numeric_data.corr()
