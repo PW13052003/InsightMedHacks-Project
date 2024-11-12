@@ -15,5 +15,5 @@ Devpost
 ### Project Description:-
 ####
 ### Tool(s) used:-
-    #### <u>Programming Language(s)</u>: Python
-    #### <u>Libraries</u>: Pandas, Matplotlib, Seaborn 
+#### <u>Programming Language(s)</u>: Python
+#### <u>Libraries</u>: Pandas, Matplotlib, Seaborn 
