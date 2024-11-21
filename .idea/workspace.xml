@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444866c9-5518-4c28-9ab3-2aa785b32467" name="Changes" comment="Update README.md and insights.txt">
+    <list default="true" id="444866c9-5518-4c28-9ab3-2aa785b32467" name="Changes" comment="Update insights.txt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/insights.txt" beforeDir="false" afterPath="$PROJECT_DIR$/insights.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +96,7 @@
       <updated>1731431458329</updated>
       <workItem from="1731431463288" duration="575000" />
       <workItem from="1731432055511" duration="6521000" />
-      <workItem from="1732212835126" duration="995000" />
+      <workItem from="1732212835126" duration="1716000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <option name="closed" value="true" />
@@ -305,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732213560085</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Update insights.txt">
+      <option name="closed" value="true" />
+      <created>1732214077337</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1732214077337</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,10 +334,11 @@
     <MESSAGE value="Update README" />
     <MESSAGE value="Update" />
     <MESSAGE value="Update README.md and insights.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md and insights.txt" />
+    <MESSAGE value="Update insights.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update insights.txt" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Data_Driven_Risk_Factor_Analysis_Dashboard$main.coverage" NAME="main Coverage Results" MODIFIED="1731435323121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Breast_Cancer_Data_Analysis$main.coverage" NAME="main Coverage Results" MODIFIED="1732213606932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Breast_Cancer_Data_Analysis$main.coverage" NAME="main Coverage Results" MODIFIED="1732214256490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

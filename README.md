@@ -24,6 +24,6 @@ This project aims to analyze a comprehensive dataset on breast cancer, focusing 
 - <u>Libraries</u>: Pandas, Matplotlib, Seaborn
 - <u>IDE</u>: JetBrains PyCharm
 
-### <u>Top 5 insights</u>:-
+### <u>Quick insights</u>:-
 1. abc
 2. bcd

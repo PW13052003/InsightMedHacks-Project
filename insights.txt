@@ -5,8 +5,22 @@ Here are the insights from our analysis:-
 --> A standard deviation of 8.96 shows that most patients are around the age of 54.
 --> The range of the ages is 39, relatively high showing that there are much younger patients as well.
 
-CONCLUSION: While the likelihood of breast cancer increases with age, it is possible for younger people to be cautious
-as well because they are at risk too (eventhough it is lesser).
+CONCLUSION: While the likelihood of breast cancer increases with age, it is required for younger people to be cautious
+as well because they are at risk too (even though it is lesser).
 
-2.
+2.Survival Months:-
+--> Average number of months of survival post detection are 71.30, i.e. a little under 6 years.
+--> The range is 100, which signifies that different patients have different lifespans.
 
+CONCLUSION: Different patients will have different outcomes which are subject to tumor stage and quality of treatment.
+
+3. Tumor size and regional nodes examined:-
+--> Average tumor size is 30.71mm.
+--> The range 139 shows the tumor sizes could vary considerably between patients.
+--> Average regional nodes examined are 14.36.
+--> The range of 60 shows however that some patients were examined more carefully than others.
+
+CONCLUSION: Typically, most tumors would have a size around 30mm but in some patients, the tumors can be much bigger.
+The number of regional nodes examined can give an insight on the quality of healthcare that patients receive. If the
+number is higher, it means that the patients have been more carefully examined, which increases the likelhood of an
+accurate assessment on the part of the doctor. If the number is lower, it could lead to more inaccuracies in the diagnosis.
