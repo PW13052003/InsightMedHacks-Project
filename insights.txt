@@ -1,3 +1,4 @@
 Here are the insights from our analysis:-
 
-1. Age: The average age of patient is 53.97 years. Based on the distribution, we can assess that most patients are 50 and above which shows that the likelihood of breast cancer increases with age.
+1. Age: The average age of patient is 53.97 years. Based on the distribution, we can assess that most patients are 50 and above
+which shows that the likelihood of breast cancer increases with age.
