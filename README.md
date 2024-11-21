@@ -24,6 +24,7 @@ This project aims to analyze a comprehensive dataset on breast cancer, focusing 
 - <u>Libraries</u>: Pandas, Matplotlib, Seaborn
 - <u>IDE</u>: JetBrains PyCharm
 
-### <u>Quick insights</u>:-
-1. abc
-2. bcd
+### <u>Findings</u>:-
+1. Older patients are at a higher risk.
+2. The lifespan post diagnosis depends on tumor stage and treatment.
+3. Some patients have access to better healthcare leading to more detailed evaluations.
