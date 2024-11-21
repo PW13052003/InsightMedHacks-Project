@@ -20,7 +20,7 @@ CONCLUSION: Different patients will have different outcomes which are subject to
 --> Average regional nodes examined are 14.36.
 --> The range of 60 shows however that some patients were examined more carefully than others.
 
-CONCLUSION: Typically, most tumors would have a size around 30mm but in some patients, the tumors can be much bigger.
-The number of regional nodes examined can give an insight on the quality of healthcare that patients receive. If the
-number is higher, it means that the patients have been more carefully examined, which increases the likelhood of an
-accurate assessment on the part of the doctor. If the number is lower, it could lead to more inaccuracies in the diagnosis.
+CONCLUSION: Typically, most tumors would have a size around 30mm but in some patients, the tumors can be much bigger. The
+number of regional nodes examined can give an insight on the quality of healthcare that patients receive. If the number is
+higher, it means that the patients have been more carefully examined, which increases the likelhood of an accurate assessment
+on the part of the doctor. If the number is lower, it could lead to more inaccuracies in the diagnosis.
